@@ -1,4 +1,8 @@
-## Hi there 👋
+# name:Wang Yuhan
+# hobby:play games(League of Legends)
+# major:computer
+# Nice to meet you!
+
 
 <!--
 **wyhzzy1314/wyhzzy1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
